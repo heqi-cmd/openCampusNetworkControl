@@ -8,7 +8,7 @@ PKG_RELEASE:=1
  
 # Source settings (i.e. where to find the source codes)
 # This is a custom variable, used below
-SOURCE_DIR:=/home/tianyy/D/code/openCampusNetworkControl
+SOURCE_DIR:=<your_path>/openCampusNetworkControl
 include $(INCLUDE_DIR)/package.mk
  
 # Package definition; instructs on how and where our package will appear in the overall configuration menu ('make menuconfig')
