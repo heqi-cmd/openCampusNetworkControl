@@ -17,7 +17,7 @@ This is a OpenWrt application
 
         ## select openCampusNetworkControl 
         make menuconfig
-        ## -> example -> [*]helloworld then save and exit
+        ## -> example -> [*]openCampusNetworkControl then save and exit
 3. compile openCampusNetworkControl
         
         ## modify Makefile SOURCE_DIR to your openCampusNetworkControl file path
